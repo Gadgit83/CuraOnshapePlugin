@@ -1,0 +1,8 @@
+{
+    "name": "Onshape Plugin",
+    "author": "Gadgit",
+    "version": "1.0.0",
+    "api": 4,
+    "supported_sdk_versions": ["2.0.0", "3.0.0", "8.1.0"],
+    "description": "Get parts from Onshape and import to print bed."
+}
