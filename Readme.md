@@ -35,8 +35,5 @@ If you have any issues or questions, please open an issue on this repository. I'
 
 ## Contribution
 If you want to contribute to this plugin, please feel free to fork this repository and make pull requests with your contributions. I can at least help you test them out.
-<<<<<<< HEAD
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y8WCUFW)
-=======
->>>>>>> ed032b4ec712d4fe26305855c4a7c2dffdb267f3
