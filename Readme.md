@@ -1,4 +1,5 @@
 # Onshape Plugin for Cura
+![Image](https://github.com/Gadgit83/CuraOnshapePlugin/assets/17674730/449c7351-a5ab-4307-8ae0-8ad89b2aa5f0)
 
 This plugin allows you to access your Onshape parts and part studios directly from within Cura. This plugin is a very minimal 'proof of concept' for integrating Onshape into Cura. It currently allows you to navigate through your top level Folders and documents, and add parts to the print bed by double-clicking on them.
 
